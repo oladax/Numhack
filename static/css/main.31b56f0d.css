@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{color:#fff}.video-container{height:100%;left:0;overflow:hidden;position:fixed;top:0;width:100%;z-index:-1}.video-container video{left:50%;min-height:100%;min-width:100%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.video-overlay{background:#000000cf;height:100%;left:0;position:absolute;top:0;width:100%;z-index:1}
+/*# sourceMappingURL=main.31b56f0d.css.map*/
