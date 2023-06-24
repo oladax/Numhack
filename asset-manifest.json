@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Numhack/static/css/main.31b56f0d.css",
-    "main.js": "/Numhack/static/js/main.6884a1f6.js",
-    "static/media/phone video (online-video-cutter.com).mp4": "/Numhack/static/media/phone video (online-video-cutter.com).d01befeb5ef162958678.mp4",
+    "main.js": "/Numhack/static/js/main.c27f6584.js",
+    "static/media/video_preview_h264 (1).mp4": "/Numhack/static/media/video_preview_h264 (1).0265feb64739e50acea3.mp4",
     "index.html": "/Numhack/index.html",
     "main.31b56f0d.css.map": "/Numhack/static/css/main.31b56f0d.css.map",
-    "main.6884a1f6.js.map": "/Numhack/static/js/main.6884a1f6.js.map"
+    "main.c27f6584.js.map": "/Numhack/static/js/main.c27f6584.js.map"
   },
   "entrypoints": [
     "static/css/main.31b56f0d.css",
-    "static/js/main.6884a1f6.js"
+    "static/js/main.c27f6584.js"
   ]
 }

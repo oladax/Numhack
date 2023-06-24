@@ -1,5 +1,1 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:'
-i6gGEdd17ebe0e8054ac99673e168c9565824
-import vidoebackground from './vidoes/phone video (online-video-cutter.com).mp4'
+  let YOUR_ACCESS_KEY = "8460416051ae6926b39d71ef1769a630";
